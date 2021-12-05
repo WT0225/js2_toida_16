@@ -1,0 +1,162 @@
+h1{
+    background-color: #00CC66;
+    font-size: 30px;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    margin: 20px 0 30px;
+}
+
+h2{
+    background-color: #00CC66;
+    font-size: 20px;
+    color: #fff;
+    padding: 10px;
+    width: 70%;
+    text-align: center;
+    margin: 20px auto 30px;
+}
+
+.condition_area{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 70%;
+    height: 130px;
+    text-align: center;
+    margin: 0 auto 40px;
+    align-items: center;
+}
+
+.condition{
+    width: 32%;
+    margin: 0 5px 10px;
+}
+.question{
+    font-size: 15px;
+    font-weight: bold;  
+}
+
+.idea_area{
+    display: flex;
+    font-size: 50px;
+    justify-content: space-around;
+    font-weight: bold;
+    margin: 0 auto 10px;
+    width: 70%;
+}
+
+.situation{
+    margin: 0 auto ;
+    text-align: center;
+    width: 400px;
+    font-size: auto;
+}
+
+.needs_question{
+    font-size: 30px;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto 20px;
+}
+
+.refresh{
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    margin: 0 auto 60px;
+}
+
+.answer_area{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 50%;
+    margin: 0 auto 10px;
+
+}
+
+.answer{
+    font-size: 30px;
+    margin: 0 15px 15px;
+    text-align: center;
+    width: 45%;
+    font-weight: bold;
+}
+
+.needs{
+    margin: 0 15px;
+    text-align: center;
+    width: 45%;
+}
+
+.business{
+    margin: 0 15px;
+    text-align: center;
+    width: 45%;
+}
+
+
+.save_clear_area{
+    display: flex;
+    justify-content: center;
+    width: 30%;
+    margin: 0 auto 20px;
+}
+.save{
+    font-size: 20px;
+    text-align: center;
+    margin: 10px ;
+}
+
+.clear{
+    font-size: 20px;
+    text-align: center;
+    margin: 10px ;
+}
+
+
+
+.btn{
+    display: block;
+    background-color: red;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 0.2rem;
+    font-size: 13px;
+    width: 70px;
+    text-align: center;
+}
+
+table{
+    margin: 0 auto 30px;
+    font-size: 20px;
+    background-color: #CEF9DC;
+    
+}
+
+th{
+    background-color: #00CC66;
+    padding: 15px 60px;
+    width: 400px;
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+td{
+    text-align: center;
+    border: 1px solid #fff;
+}
+
+small{
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto ;
+    background-color: grey;
+    color: #fff;
+    font-size: 15px;
+    padding: 5px;
+}
